@@ -1,4 +1,4 @@
 hello world
-Xin chào Ngô Xuân Thanh Phong
-Xin Chao Huynh The Nghia
+Xin chào Ngô Xuân Thanh Phong sv1
+Xin Chao Huynh The Nghia sv2
 Xin chao Pham Viet Quang Vien sv3
